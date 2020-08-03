@@ -1,0 +1,25 @@
+{
+  "name": "vidlectrontimer",
+  "version": "1.0.0",
+  "description": "An app made via electron that counts how long a video is in seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seongbo5230/vidlectrontimer.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Bo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seongbo5230/vidlectrontimer/issues"
+  },
+  "homepage": "https://github.com/Seongbo5230/vidlectrontimer#readme",
+  "dependencies": {
+    "electron": "^9.1.2"
+  }
+}
