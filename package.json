@@ -4,7 +4,7 @@
   "description": "An app made via electron that counts how long a video is in seconds",
   "main": "index.js",
   "scripts": {
-    "test": "electron ."
+    "electron": "electron ."
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Seongbo5230/vidlectrontimer#readme",
   "dependencies": {
-    "electron": "^9.1.2"
-  }
+    "electron": "^9.2.0"
+  },
+  "devDependencies": {}
 }

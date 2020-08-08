@@ -11,7 +11,7 @@ A video timer app using electron
 
 ### Running electron
 `"electron": "electron ."` inside `package.json`
-Then, in CLI, run `npm run electron` -> `electron` here is referring to `electron` in `package.json`
+Then, in CLI, run `npm run electron` -> `electron` here is referring to `electron` in `package.json` (line 7)
 
 ### `breaking app.on('ready', () => {});`
 - `app` the thing we're listening to
