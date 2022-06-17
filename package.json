@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Seongbo5230/vidlectrontimer#readme",
   "dependencies": {
-    "electron": "^9.2.0",
+    "electron": "^15.5.5",
     "fluent-ffmpeg": "^2.1.2"
   },
   "devDependencies": {}
